@@ -1,0 +1,11 @@
+
+AdultContent
+ArtsandEntertainment
+Business
+FoodandDrink
+HobbiesandInterests
+Science
+Shopping
+Society
+TechnologyandComputing
+Travel
